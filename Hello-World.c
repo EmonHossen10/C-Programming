@@ -1,6 +1,14 @@
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main()
+{
+    printf("Hello, World!\n");
+    printf("Below doing basic summation \n");
 
-    printf("Hello, World!\n"); 
-return 0;
+    int a = 5;
+    int b = 10;
+
+    int sum = a + b;
+    printf("Here is the summation : %d", sum);
+
+    return 0;
 }
