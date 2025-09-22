@@ -10,6 +10,7 @@ int main()
     int sum = a + b;
     printf("Here is the summation : %d", sum);
     printf("Here is the summation : %d", sum);
+    printf("Here is the summation : %d", sum);
   
 
     return 0;
