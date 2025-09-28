@@ -14,7 +14,10 @@ int main()
     scanf("%d", &b);
 
     int sum = a + b;
-    printf("Your Sum Result is : %d", sum);
+    printf("\nYour Sum Result is : %d\n", sum);
+    printf("Your Subtraction Result is : %d\n", a - b);
+    printf("Your multiply Result is : %d\n", a * b);
+    printf("Your Division Result is : %d\n", a / b);
 
     return 0;
 }
