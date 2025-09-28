@@ -30,6 +30,7 @@ int main()
     printf("Size of double: %zu bytes\n", sizeof(d)); // 8 bytes
 
     // boolean and string types doesn't exist in C
+    // (%d,%f,%f ....etc are called --> formate specifier) 
 
     return 0;
 }
