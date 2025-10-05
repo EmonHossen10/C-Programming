@@ -1,6 +1,6 @@
 # C Programming Language Journey 🚀
 
-A deep dive into the **C programming language** and the core principles of **structured programming**. This repository tracks my progress from foundational concepts to advanced system-level design.
+A deep dive into the **C programming language** and the core principles of **structured programming**. This repository tracks my progress from foundational concepts to advanced system-level design. this is your chance to make things
 
 ---
 
